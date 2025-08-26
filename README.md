@@ -154,11 +154,11 @@ Each project fulfills specific academic requirements:
 6. **Full-Stack Development** - Complete web applications with frontend and backend
 
 ## 👨‍🎓 Author
-**Kevil Gandhi**  
-- Student ID: 022
+**Raj Patel**  
+- Student ID: 89
 - Course: 701
-- Email: kevilmgandhi@gmail.com
-- GitHub: [@Kevil-Gandhi](https://github.com/Kevil-Gandhi)
+- Email: rajp22084@gmail.com
+- GitHub: [@RajPatel2208](https://github.com/RajPatel2208)
 
 ## 📄 License
 This project is created for academic purposes as part of Node.js coursework.
